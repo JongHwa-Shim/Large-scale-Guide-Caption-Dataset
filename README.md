@@ -1,6 +1,6 @@
 # Large-scale-Guide-Caption-Dataset
 Large-scale Guide Caption Dataset for Detailed Caption Text Generation.   
-This Dataset have detailed caption and guide caption(partially occlused from detailed caption) for cartoon and anime images.   
+This Dataset have detailed caption and guide caption (partially occlused from detailed caption) for cartoon and anime images.   
 
 ## Dataset Description   
 - number of rows: 2,336,037
