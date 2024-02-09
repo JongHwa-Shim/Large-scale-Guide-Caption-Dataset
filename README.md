@@ -4,8 +4,8 @@
 - Data containing any harmful content, such as violence or sensationalism, was excluded.
   
 ## Dataset Description   
-- number of rows: 2,336,037
-- number of columns: 7
+- Number of rows: 2,336,037
+- Number of columns: 7
 ### Dataset Example (CSV Table Form)   
 |id|image_url|image_width|image_height|thumbnail_url|detailed_tags|guide_tags|
 |---|---|---|---|---|---|---|
